@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angularluis"
+    }
+  },
+  "defaultProject": "angularluis",
+  "cli": {
+    "analytics": "213b3f0f-bcda-42b2-9b8b-c15dd9029c50"
+  }
 }
